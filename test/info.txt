@@ -1,0 +1,5 @@
+version: thisVersion
+releaseDate: today
+downloadLink: https://raw.githubusercontent.com/Cnly/maven-repo/mvn-repo/com/github/Cnly/ProjectThornz/ProjectThornz-dependencies/1.0.0/ProjectThornz-dependencies-1.0.0.jar
+description: line1
+line2
