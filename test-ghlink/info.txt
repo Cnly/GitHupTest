@@ -1,0 +1,5 @@
+version: thisVersion
+releaseDate: today
+downloadLink: gh:Cnly:GitHupTest:test-ghlink:me.txt
+description: line1
+line2
